@@ -1,0 +1,24 @@
+DILEMA RECORDS1
+
+DATA SHEET FORMAT: 
+• DATA/S
+• ATTRIBUTES
+  - Category (header)
+  - Dilemma
+  - Solution
+
+
+LEAST SEVERE: 
+  - None.
+
+SEVERE: 
+D1: chan
+S1: andrei
+s1: SOLVABLE
+A1: chan
+
+
+
+MOST SEVERE: 
+  - None.
+

@@ -1,0 +1,53 @@
+DILEMMA RECORDS6
+• DATA/S
+• ATTRIBUTES
+  - Category (header)
+  - Dilemma
+  - Solution
+
+
+LEAST SEVERE: 
+D3: pp
+S3: ll
+s3: SOLVABLE
+A3: mn
+
+
+
+D4: hg
+S4: N/A
+s4: PENDING
+A4: hg
+
+
+
+SEVERE: 
+D1: qwew
+S1: asf
+s1: SOLVABLE
+A1: ngng
+
+
+
+D5: lp
+S5: N/A
+s5: PENDING
+A5: lp
+
+
+
+MOST SEVERE: 
+D2: qwe
+S2: N/A
+s2: PENDING
+A2: jtj
+
+
+
+D6: io
+S6: io
+s6: SOLVABLE
+A6: io
+
+
+

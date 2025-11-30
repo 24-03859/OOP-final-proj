@@ -1,0 +1,22 @@
+DILEMMA RECORDS1
+• DATA/S
+• ATTRIBUTES
+  - Category (header)
+  - Dilemma
+  - Solution
+
+
+LEAST SEVERE: 
+D1: chan
+S1: N/A
+s1: PENDING
+A1: chan
+
+
+
+SEVERE: 
+  - None.
+
+MOST SEVERE: 
+  - None.
+
