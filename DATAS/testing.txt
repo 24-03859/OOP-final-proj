@@ -1,0 +1,32 @@
+DILEMMA RECORDS3
+• DATA/S
+• ATTRIBUTES
+  - Category (header)
+  - Dilemma
+  - Solution
+
+
+LEAST SEVERE: 
+D1: qwe
+S1: qwe
+s1: SOLVABLE
+A1: qwe
+
+
+
+SEVERE: 
+D2: asd
+S2: N/A
+s2: PENDING
+A2: asd
+
+
+
+MOST SEVERE: 
+D3: zxc
+S3: zxc
+s3: SOLVABLE
+A3: zxc
+
+
+

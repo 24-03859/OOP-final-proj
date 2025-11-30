@@ -117,7 +117,7 @@ public class Main {
                     }
 
                     if (!checker) {
-                        System.out.print("   - None.");
+                        System.out.print("   - None.\n");
                     }
                     if (i == 0) {
                         System.out.println(" " + repeat('-', 15));
@@ -637,34 +637,31 @@ public class Main {
             System.out.println(' ' + repeat('=', 54));
             System.out.println("||" + repeat(' ', 23) + "ABOUT" + repeat(' ', 24) + "||");
             System.out.println(' ' + repeat('-', 54));
-            System.out.println("   Project Name: Ethical Dilemma Sorting System");
-            System.out.println("   Developed by:\n");
-            System.out.println("       John Andrei Chan\n");
-            System.out.println("       John Reinner Claveria\n");
-            System.out.println("       Rence Catipon\n");
-            System.out.println("                 Lance Catipon\n");
+            System.out.println("   Project Name: Ethical Dilemma Sorting System\n");
+            System.out.println("   Developed by:");
+            System.out.println("    - John Andrei Chan");
+            System.out.println("    - John Reinner Claveria");
+            System.out.println("    - Rence Catipon");
+            System.out.println("    - Lance Catipon\n");
 
             System.out.println("   Subject/s:");
-            System.out.println("    - Data Structure and Algorithm");
-            System.out.println("    - Computer Programming 1");
-            System.out.println("    - Science, Technology, & Society\n");
+            System.out.println("    - Object-Oriented Programming\n");
 
             System.out.println("   Professor/s:");
-            System.out.println("    - Mr. Arjonel Mendoza");
-            System.out.println("    - Mrs. Ligaya Lutero");
-            System.out.println("    - Ms. Hannah Carmela Marquez\n");
+            System.out.println("    - Mr. Jayson Abratique\n");
 
             System.out.println("   Tools:");
-            System.out.println("   - Visual Studio Code (IDE)");
-            System.out.println("   - C++ (Programming Language)");
-            System.out.println("   - Claude 3.5 Sonnet (LLM)\n");
+            System.out.println("    - Visual Studio Code (IDE)");
+            System.out.println("    - Java (Programming Language)");
+            System.out.println("    - Git/Github (for saving purposes)");
+            System.out.println("    - Claude 3.5 Sonnet (LLM)\n");
 
             System.out.println("   Description:");
             System.out.println("     DISCLAIMER: This Console-Based Project was");
             System.out.println("     developed with AI assistance, using Claude");
             System.out.println("     3.5 Sonnet.\n");
 
-            System.out.println("   DATE CREATED: March 2025\n");
+            System.out.println("   DATE CREATED: November 2025\n");
 
             System.out.println(' ' + repeat('-', 54));
             System.out.println("||                1. Back to Main Menu                ||");
